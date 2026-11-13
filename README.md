@@ -21,7 +21,8 @@ Mobile engineer with 4+ years building iOS and Android apps. I like apps that ke
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Punlork/Jabhouy">Jabhouy</a></h3>
-      <p>Offline-first shop management app: inventory, sales and customer loans, in Khmer and English.</p>
+      <p>Offline-first shop management app: inventory, sales and customer loans, in Khmer and English. Live on Google Play.</p>
+      <p><a href="https://play.google.com/store/apps/details?id=com.pl.shop.management"><img src="https://img.shields.io/badge/Google_Play-Get_the_app-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a></p>
       <ul>
         <li>Outbox sync engine in pure Dart: saves to SQLite at once, syncs on reconnect with retry and backoff</li>
         <li>400+ tests: unit, BLoC, widget, migration, Patrol</li>
